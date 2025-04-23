@@ -4,7 +4,7 @@
   3. pip install -e .
 
 # Data!!
-All *data* can be found at https://drive.google.com/drive/folders/1BJWrocXUzK0MA77SuMCqdF1LrZA56rZj?usp=sharing . Dwnload and drop in data folder.
+All *data* can be found at https://drive.google.com/drive/folders/1BJWrocXUzK0MA77SuMCqdF1LrZA56rZj?usp=sharing . Download and drop in data folder.
 
 # Retrievers
 |    Name    | Paradigm | More |
